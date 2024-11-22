@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\dto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\dto\\criarusuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\models\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\models\\iusuariointerface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\dto\\usuarioeditardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\dto\\usuariolistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\dto\\usuariolistardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\profiles\\profileautomapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|c:\\users\\wilson\\source\\repos\\cruddapper\\cruddapper\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22AD6E59-CA16-442D-BB5C-4576AF422EBF}|CrudDapper\\CrudDapper.csproj|solutionrelative:cruddapper\\models\\responsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioEditarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\UsuarioEditarDto.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Dto\\UsuarioEditarDto.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\UsuarioEditarDto.cs",
+              "RelativeToolTip": "CrudDapper\\Dto\\UsuarioEditarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T15:27:01.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CriarUsuarioDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\CriarUsuarioDto.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Dto\\CriarUsuarioDto.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\CriarUsuarioDto.cs",
+              "RelativeToolTip": "CrudDapper\\Dto\\CriarUsuarioDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T14:43:48.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "CrudDapper\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEIAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:44:37.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUsuarioInterface.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\IUsuarioInterface.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Models\\IUsuarioInterface.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\IUsuarioInterface.cs",
+              "RelativeToolTip": "CrudDapper\\Models\\IUsuarioInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:55:58.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\Usuario.cs",
+              "RelativeToolTip": "CrudDapper\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:27:27.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "CrudDapper\\Services\\UsuarioService.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAuwJcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:42:37.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsuarioListarDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\UsuarioListarDto.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Dto\\UsuarioListarDto.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Dto\\UsuarioListarDto.cs",
+              "RelativeToolTip": "CrudDapper\\Dto\\UsuarioListarDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:12:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProfileAutoMapper.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Profiles\\ProfileAutoMapper.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Profiles\\ProfileAutoMapper.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Profiles\\ProfileAutoMapper.cs",
+              "RelativeToolTip": "CrudDapper\\Profiles\\ProfileAutoMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T12:16:23.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\ResponseModel.cs",
+              "RelativeDocumentMoniker": "CrudDapper\\Models\\ResponseModel.cs",
+              "ToolTip": "C:\\Users\\Wilson\\source\\repos\\CrudDapper\\CrudDapper\\Models\\ResponseModel.cs",
+              "RelativeToolTip": "CrudDapper\\Models\\ResponseModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T19:34:43.897Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
